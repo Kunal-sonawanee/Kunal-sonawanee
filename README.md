@@ -1,5 +1,21 @@
 # 💫 About Me:
-1. What are you currently working on?<br>I am learning the MERN stack and actively working on projects in MERN and Java development. Alongside, I participate in coding challenges on LeetCode and GeeksforGeeks, and I’ve recently started competitive coding by taking part in weekly contests. Additionally, I am working on a research paper.<br><br>2. What are you currently collaborating on?<br>I am eager to collaborate on open-source projects, though I’m yet to make contributions. I also enjoy participating in coding competitions and blogging about my learning journey and experiences.<br><br>3. What are you looking for help with?<br>I sometimes face challenges with complex setups, especially in Node.js. I would appreciate guidance or tips on efficiently tackling advanced concepts in MERN, Spring Boot, and cloud computing.<br><br>4. What are you currently learning?<br>I’m diving deeper into advanced data structures, MERN stack, Spring Boot, and cloud computing. These areas are helping me grow as a developer and problem solver.<br><br>5. What can people ask you about?<br>Feel free to ask me questions about problem-solving, DSA, and programming languages like Java, C++, Python, JavaScript, PHP, MySQL, and PostgreSQL. I’m always happy to share insights and help other students.<br><br>6. What’s a fun fact about you?<br>I’ve been constantly focused on my studies since last year, and it’s been an incredible journey of growth. My hobbies include staying calm in my free time and listening to spiritual talks that inspire me.<br><br>
+# 1. I Am Currently Working On  
+I am learning the MERN stack and actively working on projects in MERN and Java development. Alongside, I participate in coding challenges on LeetCode and GeeksforGeeks, and I’ve recently started competitive coding by taking part in weekly contests. Additionally, I am working on a research paper.  
+
+# 2. I Am Currently Collaborating On  
+I am eager to collaborate on open-source projects, though I’m yet to make contributions. I also enjoy participating in coding competitions and blogging about my learning journey and experiences.  
+
+# 3. I Am Looking For Help With  
+I sometimes face challenges with complex setups, especially in Node.js. I would appreciate guidance or tips on efficiently tackling advanced concepts in MERN, Spring Boot, and cloud computing.  
+
+# 4. I Am Currently Learning  
+I’m diving deeper into advanced data structures, MERN stack, Spring Boot, and cloud computing. These areas are helping me grow as a developer and problem solver.  
+
+# 5. You Can Ask Me About  
+Feel free to ask me questions about problem-solving, DSA, and programming languages like Java, C++, Python, JavaScript, PHP, MySQL, and PostgreSQL. I’m always happy to share insights and help other students.  
+
+# 6. Fun Fact About Me  
+I’ve been constantly focused on my studies since last year, and it’s been an incredible journey of growth. My hobbies include staying calm in my free time and listening to spiritual talks that inspire me.  
 
 
 ## 🌐 Socials:
