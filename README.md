@@ -28,9 +28,6 @@ I’ve been constantly focused on my studies since last year, and it’s been an
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kunal222004&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kunal222004&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kunal222004&theme=vue&no-frame=true&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -42,7 +39,7 @@ I’ve been constantly focused on my studies since last year, and it’s been an
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kunal222004/kunal222004/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kunal222004/kunal222004/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/kunal222004/kunal222004/output/github-snake.svg" />
 </picture>
