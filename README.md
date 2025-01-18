@@ -29,7 +29,7 @@ I’ve been constantly focused on my studies since last year, and it’s been an
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kunal222004/kunal222004/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kunal222004/kunal222004/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/kunal222004/kunal222004/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kunal-sonawanee/Kunal-sonawanee/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kunal-sonawanee/Kunal-sonawanee/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Kunal-sonawanee/Kunal-sonawanee/output/github-snake.svg" />
 </picture>
