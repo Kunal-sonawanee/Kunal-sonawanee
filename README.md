@@ -1,21 +1,3 @@
-# 💫 About Me:
-# 1. I Am Currently Working On  
-I am learning the MERN stack and actively working on projects in MERN and Java development. Alongside, I participate in coding challenges on LeetCode and GeeksforGeeks, and I’ve recently started competitive coding by taking part in weekly contests. Additionally, I am working on a research paper.  
-
-# 2. I Am Currently Collaborating On  
-I am eager to collaborate on open-source projects, though I’m yet to make contributions. I also enjoy participating in coding competitions and blogging about my learning journey and experiences.  
-
-# 3. I Am Looking For Help With  
-I sometimes face challenges with complex setups, especially in Node.js. I would appreciate guidance or tips on efficiently tackling advanced concepts in MERN, Spring Boot, and cloud computing.  
-
-# 4. I Am Currently Learning  
-I’m diving deeper into advanced data structures, MERN stack, Spring Boot, and cloud computing. These areas are helping me grow as a developer and problem solver.  
-
-# 5. You Can Ask Me About  
-Feel free to ask me questions about problem-solving, DSA, and programming languages like Java, C++, Python, JavaScript, PHP, MySQL, and PostgreSQL. I’m always happy to share insights and help other students.  
-
-# 6. Fun Fact About Me  
-I’ve been constantly focused on my studies since last year, and it’s been an incredible journey of growth. My hobbies include staying calm in my free time and listening to spiritual talks that inspire me.  
 
 
 ## 🌐 Socials:
