@@ -1,17 +1,63 @@
+# Hi, I'm Kunal Sonawane
 
+A passionate and results-driven Master of Computer Applications (MCA) student and aspiring Software Engineer with a strong foundation in full-stack web development, data structures, and algorithms. I am dedicated to building impactful applications and continuously expanding my knowledge in computer science.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kunal.sonawanee) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kunalsonawane224) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sonawanekunal289) 
+## About Me
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=flat&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=flat&logo=apache-cassandra&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+I'm currently pursuing my MCA at MIT World Peace University, Pune, holding a current CGPA of 8.44. My academic journey also includes a B.Sc. in Computer Science from Savitribai Phule Pune University, where I graduated with a remarkable GPA of 9.27, ranking third highest in my department.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+Born in Nashik and now residing in Pune, I embrace continuous learning and growth. My passion lies in solving complex algorithmic problems, developing robust web applications, and exploring various facets of computer science. I am fluent in Marathi and Hindi, and actively working on mastering English.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kunal-sonawanee/Kunal-sonawanee/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kunal-sonawanee/Kunal-sonawanee/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Kunal-sonawanee/Kunal-sonawanee/output/github-snake.svg" />
-</picture>
+Outside of coding, I'm deeply connected to spiritual values and enjoy meaningful conversations. My dedication extends beyond academics, as I actively contribute to my community through organizing clean-up drives.
+
+## Technical Skills
+
+My toolkit includes a comprehensive range of technologies and concepts:
+
+* **Programming Languages:** Java, Python, JavaScript, C, C++, PHP
+* **Web Technologies & Frameworks:** HTML, CSS, TailwindCSS, ReactJS, Spring Boot, Hibernate, JSP, Servlets
+* **Databases:** MySQL, PostgreSQL
+* **Tools & Platforms:** IntelliJ IDEA, Ubuntu, Windows, Postman, Git, GitHub, Maven, Tomcat, Eclipse, AWS, WAMP
+* **Core Concepts:** Data Structures and Algorithms (DSA), Object-Oriented Programming (OOP), RESTful APIs, Model-View-Controller (MVC), Database Management Systems (DBMS), Operating Systems, Computer Networks, Microservices, CI/CD
+
+## Projects
+
+I have developed a variety of full-stack web applications, showcasing my problem-solving abilities and technical proficiency. You can explore all my projects directly on my GitHub:
+
+➡️ **[View All My Projects on GitHub](https://github.com/Kunal-sonawanee?tab=repositories)**
+
+## Achievements & Recognition
+
+* **Research Paper Publication:** Co-authored "An IoT-Powered Real-Time Cattle Health Monitoring System," accepted for publication at ICT4SD 2025.
+    * [Read the Research Paper](https://drive.google.com/file/d/1QIbvxFgyUUeHn3lcpjl2qKQOUkYgdqjM/view?usp=drive_link)
+* **LeetCode Excellence:** Achieved **Top 4% globally** on LeetCode with a consistent 100-day streak, demonstrating strong algorithmic and problem-solving skills.
+    * [My LeetCode Profile](https://leetcode.com/u/kunal222004/)
+    * [My GeeksforGeeks Profile](https://www.geeksforgeeks.org/user/sonawanekunal289/) (Solved 650+ problems, 14+ badges)
+* **Coding Competition Wins:**
+    * Two-time winner of inter-college coding competitions.
+    * Finalist at the Inter-College Hackathon (Surydatta College, Pune, 2025).
+    * Winner of the Inter-Department Coding Contest, KVN College (2022, 2023).
+* **Academic Distinction:** Achieved the third highest GPA (9.27) in my B.Sc. Computer Science department.
+
+## Blog & Insights
+
+I regularly share my learning journey, technical insights, and thoughts on various Computer Science topics and student experiences.
+
+* [**Escaping Tutorial Hell: A Guide for Learners**](https://medium.com/@sonawanekunal289/escaping-tutorial-hell-a-guide-for-learners-5837650e6309)
+* [**How AI is Revolutionizing Web Development: My Experience with Cursor AI**](https://medium.com/@sonawanekunal289/how-ai-is-revolutionizing-web-development-my-experience-with-cursor-ai-5d9637537f3d)
+* [**Power Of Connections: More Than Just Networking in Tech**](https://medium.com/@sonawanekunal289/the-power-of-connections-more-than-just-networking-in-tech-3faded81e380)
+
+ **[Read All My Articles on Medium](https://medium.com/@sonawanekunal289)**
+
+---
+
+## Connect with Me
+
+I'm always open to discussing new opportunities, collaborations, or just having a meaningful conversation!
+
+* **LinkedIn:** [linkedin.com/in/kunalsonawane224](https://linkedin.com/in/kunalsonawane224)
+* **Email:** sonawanekunal289@gmail.com
+* **Personal Website:** [kunalsonawane.com](https://www.kunalsonawane.com)
+* **Instagram:** [instagram.com/kunal.sonawanee](https://instagram.com/kunal.sonawanee)
+
+---
