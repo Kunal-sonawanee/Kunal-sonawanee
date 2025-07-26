@@ -1,62 +1,52 @@
-# Hi, I'm Kunal Sonawane
+Kunal Sonawane
+Aspiring Software Developer with a strong foundation in computer science and hands-on experience in full-stack web development. Proficient in designing scalable, maintainable applications and solving algorithmic challenges. Passionate about building impactful solutions and continuously improving through learning and collaboration.
 
-A passionate and results-driven Master of Computer Applications (MCA) student and aspiring Software Engineer with a strong foundation in full-stack web development, data structures, and algorithms. I am dedicated to building impactful applications and continuously expanding my knowledge in computer science.
+Education
+MIT World Peace University, Pune
+Master of Computer Applications (MCA)
+Current CGPA: 8.44
 
-## About Me
+Savitribai Phule Pune University
+Bachelor of Science in Computer Science
+GPA: 9.27 (Ranked 3rd in Department)
 
-I'm currently pursuing my MCA at MIT World Peace University, Pune, holding a current CGPA of 8.44. My academic journey also includes a B.Sc. in Computer Science from Savitribai Phule Pune University, where I graduated with a remarkable GPA of 9.27, ranking third highest in my department.
+Technical Skills
+Languages: Java, Python, JavaScript, C, C++, PHP
+Web Development: HTML, CSS, TailwindCSS, ReactJS, JSP, Servlets, Spring Boot, Hibernate
+Databases: MySQL, PostgreSQL
+Tools & Platforms: Git, GitHub, Postman, Maven, Tomcat, Eclipse, IntelliJ, Ubuntu, Windows
+Core Concepts: Data Structures and Algorithms, Object-Oriented Programming, RESTful APIs, MVC Architecture, DBMS, Operating Systems, Computer Networks
 
-Born in Nashik and now residing in Pune, I embrace continuous learning and growth. My passion lies in solving complex algorithmic problems, developing robust web applications, and exploring various facets of computer science. I am fluent in Marathi and Hindi, and actively working on mastering English.
+Projects
+Multiple full-stack and algorithmic projects hosted on GitHub
 
-Outside of coding, I'm deeply connected to spiritual values and enjoy meaningful conversations. My dedication extends beyond academics, as I actively contribute to my community through organizing clean-up drives.
+Focused on building scalable applications using Spring Boot, ReactJS, and RESTful APIs
 
-## Technical Skills
+GitHub: github.com/Kunal-sonawanee
 
-My toolkit includes a comprehensive range of technologies and concepts:
+Achievements
+Research Publication:
+"An IoT-Powered Real-Time Cattle Health Monitoring System"
+Published at ICT4SD 2025
+View Publication
 
-* **Programming Languages:** Java, Python, JavaScript, C, C++, PHP
-* **Web Technologies & Frameworks:** HTML, CSS, TailwindCSS, ReactJS, Spring Boot, Hibernate, JSP, Servlets
-* **Databases:** MySQL, PostgreSQL
-* **Tools & Platforms:** IntelliJ IDEA, Ubuntu, Windows, Postman, Git, GitHub, Maven, Tomcat, Eclipse, AWS, WAMP
-* **Core Concepts:** Data Structures and Algorithms (DSA), Object-Oriented Programming (OOP), RESTful APIs, Model-View-Controller (MVC), Database Management Systems (DBMS), Operating Systems, Computer Networks, Microservices, CI/CD
+LeetCode:
+Completed a 365-day problem-solving streak
+LeetCode Profile | GeeksforGeeks Profile
 
-## Projects
+Coding Competitions
+Winner: Inter-Department Coding Contest – KVN College (2022, 2023)
 
-I have developed a variety of full-stack web applications, showcasing my problem-solving abilities and technical proficiency. You can explore all my projects directly on my GitHub:
+Finalist: Hackathon – Suryadatta College, Pune (2025)
 
- **[View All My Projects on GitHub](https://github.com/Kunal-sonawanee?tab=repositories)**
+Two-time Winner: Inter-college Coding Competitions
 
-## Achievements & Recognition
+Writing & Contributions
+Published technical blogs on AI, learning strategies, and computer networking
 
-* **Research Paper Publication:** Co-authored "An IoT-Powered Real-Time Cattle Health Monitoring System," accepted for publication at ICT4SD 2025.
-    * [Read the Research Paper](https://drive.google.com/file/d/1QIbvxFgyUUeHn3lcpjl2qKQOUkYgdqjM/view?usp=drive_link)
-* **LeetCode Excellence:** Achieved 365 days LeetCode with a consistent over 300-day streak, demonstrating strong algorithmic and problem-solving skills.
-    * [My LeetCode Profile](https://leetcode.com/u/kunal222004/)
-    * [My GeeksforGeeks Profile](https://www.geeksforgeeks.org/user/sonawanekunal289/)
-* **Coding Competition Wins:**
-    * Two-time winner of inter-college coding competitions.
-    * Finalist at the Inter-College Hackathon (Surydatta College, Pune, 2025).
-    * Winner of the Inter-Department Coding Contest, KVN College (2022, 2023).
+View Articles on Medium (https://medium.com/@sonawanekunal289)
 
-## Blog & Insights
-
-I regularly share my learning journey, technical insights, and thoughts on various Computer Science topics and student experiences.
-
-* [**Escaping Tutorial Hell: A Guide for Learners**](https://medium.com/@sonawanekunal289/escaping-tutorial-hell-a-guide-for-learners-5837650e6309)
-* [**How AI is Revolutionizing Web Development: My Experience with Cursor AI**](https://medium.com/@sonawanekunal289/how-ai-is-revolutionizing-web-development-my-experience-with-cursor-ai-5d9637537f3d)
-* [**Power Of Connections: More Than Just Networking in Tech**](https://medium.com/@sonawanekunal289/the-power-of-connections-more-than-just-networking-in-tech-3faded81e380)
-
- **[Read All My Articles on Medium](https://medium.com/@sonawanekunal289)**
-
----
-
-## Connect with Me
-
-I'm always open to discussing new opportunities, collaborations, or just having a meaningful conversation!
-
-* **LinkedIn:** [linkedin.com/in/kunalsonawane224](https://linkedin.com/in/kunalsonawane224)
-* **Email:** sonawanekunal289@gmail.com
-* **Personal Website:** [kunalsonawane.com](https://www.kunalsonawane.com)
-* **Instagram:** [instagram.com/kunal.sonawanee](https://instagram.com/kunal.sonawanee)
-
----
+Contact
+Website: kunalsonawane.com
+Email: sonawanekunal289@gmail.com
+LinkedIn: linkedin.com/in/kunalsonawane224
