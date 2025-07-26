@@ -24,20 +24,19 @@ My toolkit includes a comprehensive range of technologies and concepts:
 
 I have developed a variety of full-stack web applications, showcasing my problem-solving abilities and technical proficiency. You can explore all my projects directly on my GitHub:
 
-➡️ **[View All My Projects on GitHub](https://github.com/Kunal-sonawanee?tab=repositories)**
+ **[View All My Projects on GitHub](https://github.com/Kunal-sonawanee?tab=repositories)**
 
 ## Achievements & Recognition
 
 * **Research Paper Publication:** Co-authored "An IoT-Powered Real-Time Cattle Health Monitoring System," accepted for publication at ICT4SD 2025.
     * [Read the Research Paper](https://drive.google.com/file/d/1QIbvxFgyUUeHn3lcpjl2qKQOUkYgdqjM/view?usp=drive_link)
-* **LeetCode Excellence:** Achieved **Top 4% globally** on LeetCode with a consistent 100-day streak, demonstrating strong algorithmic and problem-solving skills.
+* **LeetCode Excellence:** Achieved 365 days LeetCode with a consistent over 300-day streak, demonstrating strong algorithmic and problem-solving skills.
     * [My LeetCode Profile](https://leetcode.com/u/kunal222004/)
-    * [My GeeksforGeeks Profile](https://www.geeksforgeeks.org/user/sonawanekunal289/) (Solved 650+ problems, 14+ badges)
+    * [My GeeksforGeeks Profile](https://www.geeksforgeeks.org/user/sonawanekunal289/)
 * **Coding Competition Wins:**
     * Two-time winner of inter-college coding competitions.
     * Finalist at the Inter-College Hackathon (Surydatta College, Pune, 2025).
     * Winner of the Inter-Department Coding Contest, KVN College (2022, 2023).
-* **Academic Distinction:** Achieved the third highest GPA (9.27) in my B.Sc. Computer Science department.
 
 ## Blog & Insights
 
