@@ -1,4 +1,4 @@
-Kunal Sonawane
+I'm Kunal Sonawane
 Aspiring Software Developer with a strong foundation in computer science and hands-on experience in full-stack web development. Proficient in designing scalable, maintainable applications and solving algorithmic challenges. Passionate about building impactful solutions and continuously improving through learning and collaboration.
 
 Education
